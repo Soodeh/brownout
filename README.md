@@ -34,6 +34,6 @@ Installing this software on top of Ubuntu can be achieved using the following co
 
     sudo apt-get install xen-hypervisor-4.1-amd64 build-essential \
 		libboost1.48-all-dev libvirt-dev libtinyxml-dev libcurl4-openssl-dev \
-		python apache2 libapache2-mod-php5 mysql-client mysql-server
+		python apache2 libapache2-mod-php5 mysql-client mysql-server php5-mysql
 
 For questions or comments, please contact Cristian Klein <firstname.lastname@cs.umu.se>.
